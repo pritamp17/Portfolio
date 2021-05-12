@@ -6,6 +6,5 @@ export const data = [
       },
       {
         title: 'Hello World 2',
-        subtitle: 'Hello World Subtitle 2'
-      }
+        subtitle: 'Hello World Subtitle 2' }
 ]
