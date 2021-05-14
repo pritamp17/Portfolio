@@ -13,5 +13,4 @@ function cv() {
     </>
     )
 }
-
 export default cv
